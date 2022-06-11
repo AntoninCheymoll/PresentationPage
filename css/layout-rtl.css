@@ -151,6 +151,7 @@ h4 {
 /* Section Seperator */
 .section-seperator {
   border-bottom: 1px solid #edf0f2;
+  margin-Bottom: 100px;
 }
 
 /* Content Wrapper Link */
